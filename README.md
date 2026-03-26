@@ -12,6 +12,7 @@ This project can be trained from scratch on the Europarl dataset and also allows
 ---
 
 ## Project Structure
+```bash
 translator/
 ├─ env/ # Python virtual environment
 ├─ nmt/ # Saved model & tokenizer
@@ -23,7 +24,7 @@ translator/
 ├─ main.py # Script to run translation (inference)
 ├─ Spanish_Franch_English_Translator.ipynb # Jupyter notebook version
 └─ README.md # Project documentation
-
+```
 ---
 
 ## Features
